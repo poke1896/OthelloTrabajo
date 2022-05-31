@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'OthelloTrabajo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'OthelloTrabajo 1.0-SNAPSHOT API'
+com.mycompany.othellotrabajo
+'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/src/main/java/com/mycompany/othellotrabajo/Board.java'
+'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/src/main/java/com/mycompany/othellotrabajo/BoardSlot.java'
+'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/src/main/java/com/mycompany/othellotrabajo/Chip.java'
+'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/src/main/java/com/mycompany/othellotrabajo/Menu.java'
+'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/src/main/java/com/mycompany/othellotrabajo/MessageCenter.java'
+'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/src/main/java/com/mycompany/othellotrabajo/Node.java'
+'C:/Users/eli/Documents/NetBeansProjects/OthelloTrabajo/src/main/java/com/mycompany/othellotrabajo/Othello.java'
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\src\main\java = 1653404868672
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\allclasses-frame.html = 1653973403247
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\allclasses-noframe.html = 1653973403255
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\constant-values.html = 1653973401918
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\deprecated-list.html = 1653973403235
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\help-doc.html = 1653973403376
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\index-all.html = 1653973403207
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\index.html = 1653973403295
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\overview-tree.html = 1653973403013
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\package-list = 1653973401496
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\script.js = 1653973403404
+C:\Users\eli\Documents\NetBeansProjects\OthelloTrabajo\target\site\apidocs\stylesheet.css = 1653973403397
